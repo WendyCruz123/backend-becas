@@ -1,0 +1,58 @@
+[
+  {
+    "nombre": "BECA TRABAJO INSTITUTO DE INVESTIGACIÓN",
+    "detalle": "TODA LA DOCUMENTACIÓN PRESENTADA DEBE ESTAR DENTRO DE LOS PLAZOS ESTABLECIDOS EN LA CONVOCATORIA CASO CONTRARIO SE INHABILITARÁ DE FORMA INDEFECTIBLE.",
+    "tipo": "INVESTIGACION",
+    "fecha_inicio": "2026-05-01",
+    "fecha_fin": null
+  },
+  {
+    "nombre": "BECA TRABAJO INSTITUCIONAL",
+    "detalle": "TODA LA DOCUMENTACIÓN PRESENTADA DEBE ESTAR DENTRO DE LOS PLAZOS ESTABLECIDOS EN LA CONVOCATORIA CASO CONTRARIO SE INHABILITARÁ DE FORMA INDEFECTIBLE.",
+    "tipo": "INSTITUCIONAL",
+    "fecha_inicio": "2026-05-02",
+    "fecha_fin": null
+  },
+  {
+    "nombre": "BECA TRABAJO COMPENSATORIO",
+    "detalle": "TODA LA DOCUMENTACIÓN PRESENTADA DEBE ESTAR DENTRO DE LOS PLAZOS ESTABLECIDOS EN LA CONVOCATORIA, CASO CONTRARIO SE INHABILITARÁ DE FORMA INDEFECTIBLE.",
+    "tipo": "IDH",
+    "fecha_inicio": "2026-05-03",
+    "fecha_fin": null
+  },
+  {
+    "nombre": "BECA COMEDOR INSTITUCIONAL",
+    "detalle": "TODA LA DOCUMENTACIÓN PRESENTADA DEBE ESTAR DENTRO DE LOS PLAZOS ESTABLECIDOS EN LA CONVOCATORIA CASO CONTRARIO SE INHABILITARÁ DE FORMA INDEFECTIBLE.",
+    "tipo": "INSTITUCIONAL",
+    "fecha_inicio": "2026-05-04",
+    "fecha_fin": null
+  },
+  {
+    "nombre": "BECA EXCELENCIA ACADÉMICA",
+    "detalle": "TODA LA DOCUMENTACIÓN PRESENTADA DEBE ESTAR DENTRO DE LOS PLAZOS ESTABLECIDOS EN LA CONVOCATORIA CASO CONTRARIO SE INHABILITARÁ DE FORMA INDEFECTIBLE.",
+    "tipo": "IDH",
+    "fecha_inicio": "2026-05-05",
+    "fecha_fin": null
+  },
+  {
+    "nombre": "BECA INVESTIGACIÓN",
+    "detalle": "TODA LA DOCUMENTACIÓN PRESENTADA DEBE ESTAR DENTRO DE LOS PLAZOS ESTABLECIDOS EN LA CONVOCATORIA CASO CONTRARIO SE INHABILITARÁ DE FORMA INDEFECTIBLE.",
+    "tipo": "IDH",
+    "fecha_inicio": "2026-05-06",
+    "fecha_fin": null
+  },
+  {
+    "nombre": "BECA AUXILIAR DE DOCENCIA",
+    "detalle": "PROHIBICIONES: No podrán postularse los estudiantes que no vencieron el primer año o segundo semestre en la carrera.",
+    "tipo": "IDH",
+    "fecha_inicio": "2026-05-07",
+    "fecha_fin": null
+  },
+  {
+    "nombre": "BECA EXTENSIÓN COMPENSATORIO",
+    "detalle": "TODA LA DOCUMENTACIÓN PRESENTADA DEBE ESTAR DENTRO DE LOS PLAZOS ESTABLECIDOS EN LA CONVOCATORIA CASO CONTRARIO SE INHABILITARÁ DE FORMA INDEFECTIBLE.",
+    "tipo": "IDH",
+    "fecha_inicio": "2026-05-08",
+    "fecha_fin": null
+  }
+]

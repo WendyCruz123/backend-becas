@@ -1,0 +1,4412 @@
+[
+  {
+    "persona": {
+      "ci": "5994263",
+      "expedido": "LP",
+      "nombre": "FIDELIA",
+      "apellido_paterno": "CALSINA",
+      "apellido_materno": "COCARICO",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "fideparker@gmail.com",
+      "celular": "77775535",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 14004028,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 11902,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "6988525",
+      "expedido": "LP",
+      "nombre": "JOSE",
+      "apellido_paterno": "MAMANI",
+      "apellido_materno": "ALANOCA",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "jjhosseph.a@gmail.com",
+      "celular": "60103041",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 12003178,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 3279,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "9210870",
+      "expedido": "LP",
+      "nombre": "RONALD DEIBIS",
+      "apellido_paterno": "MAMANI",
+      "apellido_materno": "MAMANI",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "estudiante.9210870@upea.edu.bo",
+      "celular": "00000000",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 13007957,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 14655,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "7069644",
+      "expedido": "LP",
+      "nombre": "MARCOS",
+      "apellido_paterno": "PAUCARA",
+      "apellido_materno": "CONDORI",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "oemarkmf@gmail.com",
+      "celular": "67333073",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 12002692,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 22456,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "9124788",
+      "expedido": "LP",
+      "nombre": "MARCOS EXALTO",
+      "apellido_paterno": "TICONA",
+      "apellido_materno": "LIMACHI",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "markosqui@gmail.com",
+      "celular": "69823343",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 12004698,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 5778,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "7071626",
+      "expedido": "LP",
+      "nombre": "CARLOS ROMER",
+      "apellido_paterno": "CRUZ",
+      "apellido_materno": "PACO",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "estudiante.7071626@upea.edu.bo",
+      "celular": "71576701",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 14007315,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 9852,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "7056632",
+      "expedido": "LP",
+      "nombre": "LIDIA",
+      "apellido_paterno": "COAQUIRA",
+      "apellido_materno": "MAYNASA",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "estudiante.7056632@upea.edu.bo",
+      "celular": "78860877",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 14000027,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 14594,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "3393206",
+      "expedido": "LP",
+      "nombre": "HUGO EDGAR",
+      "apellido_paterno": "QUISPE",
+      "apellido_materno": "CAHUAYA",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "hcahuaya77@gmail.com",
+      "celular": "71965987",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 14007309,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 9857,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "8396104",
+      "expedido": "LP",
+      "nombre": "NANCY ISABEL",
+      "apellido_paterno": "CHAMBI",
+      "apellido_materno": "RAMIREZ",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "isatkm1919@gmail.com",
+      "celular": "64171256",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 15004745,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 6562,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "9976589",
+      "expedido": "LP",
+      "nombre": "NESTOR CARLOS",
+      "apellido_paterno": "QUISPE",
+      "apellido_materno": "CUTIPA",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "nestr.qc@gmail.com",
+      "celular": "76596064",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 13004413,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 16819,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "6076495",
+      "expedido": "LP",
+      "nombre": "DANIEL MIGUEL",
+      "apellido_paterno": "SUSARA",
+      "apellido_materno": "MAMANI",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "edamanddan@gmail.com",
+      "celular": "79564766",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 12003264,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 3824,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "4975333",
+      "expedido": "LP",
+      "nombre": "EDGAR EDUARDO",
+      "apellido_paterno": "APAZA",
+      "apellido_materno": "QUISPE",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "kiogui.edu.com@hotmail.com",
+      "celular": "65118570",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 14000244,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 14439,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "9211254",
+      "expedido": "LP",
+      "nombre": "DIEGO LEONARDO",
+      "apellido_paterno": "PRADO",
+      "apellido_materno": "MAMANI",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "estudiante.9211254@upea.edu.bo",
+      "celular": "78851215",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200000207,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 43167,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "9116356",
+      "expedido": "LP",
+      "nombre": "MAGALY VERONICA",
+      "apellido_paterno": "CUSICANQUI",
+      "apellido_materno": "MALDONADO",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "magalycusicanqui@gmail.com",
+      "celular": "78753268",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 14007134,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 9997,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "9227710",
+      "expedido": "LP",
+      "nombre": "VANEZA TATIANA",
+      "apellido_paterno": "SANGALLI",
+      "apellido_materno": "CONDORI",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "sangallivanezatatiana@gmail.com",
+      "celular": "67169020",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200000242,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 43226,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "9927651",
+      "expedido": "LP",
+      "nombre": "YESENIA DOLY",
+      "apellido_paterno": "FLORES",
+      "apellido_materno": "LUNA",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "estudiante.9927651@upea.edu.bo",
+      "celular": "73261408",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200000243,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 43228,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "9160845",
+      "expedido": "LP",
+      "nombre": "GROVER",
+      "apellido_paterno": "QUENALLATA",
+      "apellido_materno": "FLORES",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "groverz95flor@gmil.com",
+      "celular": "75847835",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 14000173,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 14488,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "3335847",
+      "expedido": "LP",
+      "nombre": "NAPOLEON FRANCISCO",
+      "apellido_paterno": "CASTRO",
+      "apellido_materno": "AGUIRRE",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "castroafrancisco@gmail.com",
+      "celular": "73522683",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200000459,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 43509,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "9167760",
+      "expedido": "LP",
+      "nombre": "MARIEL MAGALI",
+      "apellido_paterno": "YANIQUE",
+      "apellido_materno": "MAMANI",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "marielyanique@gmail.com",
+      "celular": "72587336",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 12003143,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 34919,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "6765897",
+      "expedido": "LP",
+      "nombre": "WILSON",
+      "apellido_paterno": "TITO",
+      "apellido_materno": "CHIPANA",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "wilsoncienpuras@hotmail.com",
+      "celular": "71212614",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 12008008,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 37018,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "6049718",
+      "expedido": "LP",
+      "nombre": "ROMER WALDIMAR",
+      "apellido_paterno": "CHACOLLA",
+      "apellido_materno": "CAMA",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "waldimar222@gmail.com",
+      "celular": "77293580",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 15009712,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 40953,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "8354323",
+      "expedido": "LP",
+      "nombre": "VICTORIA",
+      "apellido_paterno": "TOLA",
+      "apellido_materno": "MAMANI",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "estudiante.8354323@upea.edu.bo",
+      "celular": "73862659",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 13004620,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 16691,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "6760238",
+      "expedido": "LP",
+      "nombre": "YERKO ALDAIR",
+      "apellido_paterno": "QUISPE",
+      "apellido_materno": "TICONA",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "yerkoaldairq@gmail.com",
+      "celular": "65676573",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200001185,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 44349,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "7050421",
+      "expedido": "LP",
+      "nombre": "CARLA ANDREA",
+      "apellido_paterno": "CHAVEZ",
+      "apellido_materno": "MALLEA",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "andrea_staind@outlook.com",
+      "celular": "67062969",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200001288,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 44490,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "6153517",
+      "expedido": "LP",
+      "nombre": "EDDY MARENCIO",
+      "apellido_paterno": "QUISPE",
+      "apellido_materno": "CACHI",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "sinoluis10@gmail.com",
+      "celular": "67041700",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 13008026,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 14624,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "7036171",
+      "expedido": "LP",
+      "nombre": "HENRY LOT",
+      "apellido_paterno": "GUTIERREZ",
+      "apellido_materno": "BARRERA",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "ribicerydar@gmail.com",
+      "celular": "65146341",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 13007425,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 14988,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "6818404",
+      "expedido": "LP",
+      "nombre": "HECTOR GONZALO",
+      "apellido_paterno": "MAMANI",
+      "apellido_materno": "QUISPE",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "hectorgonzalo1208@gmail.com",
+      "celular": "73029744",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 12005396,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 37089,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "4954171",
+      "expedido": "LP",
+      "nombre": "RENE RAUL",
+      "apellido_paterno": "YANARICO",
+      "apellido_materno": "YAULI",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "raulyanaricoyauli@gmail.com",
+      "celular": "73212168",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 15006956,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 35587,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "12668818",
+      "expedido": "LP",
+      "nombre": "LIZETH SELENE",
+      "apellido_paterno": "CHAVEZ",
+      "apellido_materno": "CAPCHA",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "lizethselenechavezcapcha54@gmail.com",
+      "celular": "78864805",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200007227,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 54893,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "6021249",
+      "expedido": "LP",
+      "nombre": "RAMIRO EMILIO",
+      "apellido_paterno": "APAZA",
+      "apellido_materno": "BAUTISTA",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "ikkiro29@gmail.com",
+      "celular": "71281112",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 13006002,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 15818,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "10902986",
+      "expedido": "LP",
+      "nombre": "DANIEL SANTOS",
+      "apellido_paterno": "APAZA",
+      "apellido_materno": "CONDORI",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "dhanys0555@gmail.com",
+      "celular": "72510677",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200007871,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 55566,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "9224261",
+      "expedido": "LP",
+      "nombre": "HENRY",
+      "apellido_paterno": "MAMANI",
+      "apellido_materno": "QUISPE",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "estudiante.9224261@upea.edu.bo",
+      "celular": "62461521",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 11000490,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 48512,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "9961974",
+      "expedido": "LP",
+      "nombre": "MARCO ANTONIO",
+      "apellido_paterno": "VILLCA",
+      "apellido_materno": "VARGAS",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "marckvargas52@gmail.com",
+      "celular": "76565058",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 14008051,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 9320,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "10079708",
+      "expedido": "LP",
+      "nombre": "GABRIELA",
+      "apellido_paterno": "ROJAS",
+      "apellido_materno": "FLORES",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "1234567roit@gmail.com",
+      "celular": "74050166",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200012021,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 62653,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "9138905",
+      "expedido": "LP",
+      "nombre": "MAYCO BRAYHAM",
+      "apellido_paterno": "CAMIÑO",
+      "apellido_materno": "ARTEAGA",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "ojouvakid@gmail.com",
+      "celular": "74057922",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200013515,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 64722,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "9136881",
+      "expedido": "LP",
+      "nombre": "LUZ NELLY",
+      "apellido_paterno": "QUISPE",
+      "apellido_materno": "LOZA",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "luzq8554@gmail.com",
+      "celular": "63209753",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200017550,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 68965,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "9992290",
+      "expedido": "LP",
+      "nombre": "JHOSELINE LUCY",
+      "apellido_paterno": "MIXTO",
+      "apellido_materno": "CANO",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "patitosblancos100@hotmail.com",
+      "celular": "73539096",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200017561,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 68980,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "11060825",
+      "expedido": "LP",
+      "nombre": "GABRIELA NICOL",
+      "apellido_paterno": "BITRE",
+      "apellido_materno": "MAMANI",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "nicoletmirianmarquezbitre@gmail",
+      "celular": "79178698",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200021667,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 73567,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "6942171",
+      "expedido": "LP",
+      "nombre": "JUAN MILTON",
+      "apellido_paterno": "BARRIENTOS",
+      "apellido_materno": "FLORES",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "skayner1998arkangel@gmail.com",
+      "celular": "61217653",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200022373,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 74279,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "4284274",
+      "expedido": "LP",
+      "nombre": "JUAN IRINEO",
+      "apellido_paterno": "QUISPE",
+      "apellido_materno": "JIMENEZ",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "estudiante.4284274@upea.edu.bo",
+      "celular": "74047415",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200022712,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 74632,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "9117520",
+      "expedido": "LP",
+      "nombre": "EFRAIN WALTER",
+      "apellido_paterno": "CRUZ",
+      "apellido_materno": "PACO",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "estudiante.9117520@upea.edu.bo",
+      "celular": "71576701",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200025552,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 77535,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "8448659",
+      "expedido": "LP",
+      "nombre": "CESAR",
+      "apellido_paterno": "GOMEZ",
+      "apellido_materno": "MOLLISACA",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "cesar_fismat@hotmail.com",
+      "celular": "65528787",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200025965,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 77948,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "5995812",
+      "expedido": "LP",
+      "nombre": "CARLOS ABRAHAM",
+      "apellido_paterno": "TABORGA",
+      "apellido_materno": "SANTA CRUZ",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "carlostaborga6666@gmail.com",
+      "celular": "73080898",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200027285,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 79453,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "12452476",
+      "expedido": "LP",
+      "nombre": "GABRIELA",
+      "apellido_paterno": "QUISPE",
+      "apellido_materno": "LIMACHI",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "gabrielaquispelimachi11@gmail.com",
+      "celular": "77579209",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200032360,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 87302,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "6871573",
+      "expedido": "LP",
+      "nombre": "LUCERO MARILU",
+      "apellido_paterno": "ARTEAGA",
+      "apellido_materno": "GOMEZ",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "luzarteaga237@gmail.com",
+      "celular": "73026914",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200033020,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 87972,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "9230652",
+      "expedido": "LP",
+      "nombre": "JUAN ANTONIO",
+      "apellido_paterno": "VICHINI",
+      "apellido_materno": "MAMANI",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "mamanijuan124@gmail.com",
+      "celular": "60538252",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200033290,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 88246,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "7017997",
+      "expedido": "LP",
+      "nombre": "MILTON GROVER",
+      "apellido_paterno": "BLANCO",
+      "apellido_materno": "TICONA",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "miltonblancot@hotmail.com",
+      "celular": "79555829",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200034479,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 89432,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "9931388",
+      "expedido": "LP",
+      "nombre": "JAIME",
+      "apellido_paterno": "ESPINOZA",
+      "apellido_materno": "ALEJO",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "jimbg123meca@gmail.com",
+      "celular": "76274079",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200037380,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 95082,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "11071741",
+      "expedido": "LP",
+      "nombre": "FRANZ",
+      "apellido_paterno": "YUJRA",
+      "apellido_materno": "MAMANI",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "yujraxavi@gmail.com",
+      "celular": "74033989",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200037501,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 95216,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "13118421",
+      "expedido": "LP",
+      "nombre": "CRISTIAN",
+      "apellido_paterno": "VILLCA",
+      "apellido_materno": "VARGAS",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "villavargascristian@gmail.com",
+      "celular": "71994563",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200037984,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 95702,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "8393614",
+      "expedido": "LP",
+      "nombre": "GRICELDA",
+      "apellido_paterno": "CHOQUE",
+      "apellido_materno": "CHOQUE",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "choquechoquegricelda@gmail.com",
+      "celular": "67337142",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200044608,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 106517,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "9929728",
+      "expedido": "LP",
+      "nombre": "LIZETH",
+      "apellido_paterno": "RAMOS",
+      "apellido_materno": "APAZA",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "ramosapazalizeht@gmail.com",
+      "celular": "76506130",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200044861,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 106766,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "9208417",
+      "expedido": "LP",
+      "nombre": "XIMENA",
+      "apellido_paterno": "GUTIERREZ",
+      "apellido_materno": "RAMIREZ",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "gutier288arm@gmail.com",
+      "celular": "68167462",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200044943,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 106863,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "9148423",
+      "expedido": "LP",
+      "nombre": "EDWIN",
+      "apellido_paterno": "MAMANI",
+      "apellido_materno": "RENJIFO",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "mamaniedwin144@gmail.com",
+      "celular": "71502156",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200045002,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 106922,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "12604906",
+      "expedido": "LP",
+      "nombre": "GISELA",
+      "apellido_paterno": "QUISPE",
+      "apellido_materno": "APAZA",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "giselaquispe212@gmail.com",
+      "celular": "74054690",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200045328,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 107247,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "8292245",
+      "expedido": "LP",
+      "nombre": "LIA CAROLA",
+      "apellido_paterno": "SALAZAR",
+      "apellido_materno": "TORREZ",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "carolalia.lcst@gmail.com",
+      "celular": "75271246",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200048625,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 110748,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "9169464",
+      "expedido": "LP",
+      "nombre": "EVELIN BOLIVIA",
+      "apellido_paterno": "GUACHALLA",
+      "apellido_materno": "FERNANDEZ",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "evelinboliviaguachallafernande@gmail.com",
+      "celular": "69770772",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200051057,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 132138,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "14962226",
+      "expedido": "LP",
+      "nombre": "MAGALY",
+      "apellido_paterno": "ZARZURI",
+      "apellido_materno": "MAMANI",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "hannasarsuri13@gmail.com",
+      "celular": "78811413",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200056052,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 165236,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "9905289",
+      "expedido": "LP",
+      "nombre": "OSWALDO TADEO",
+      "apellido_paterno": "RAMIREZ",
+      "apellido_materno": "ANGULO",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "oswaldotadeo111@gmail.com",
+      "celular": "78874288",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200056057,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 165590,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "10065668",
+      "expedido": "LP",
+      "nombre": "JHOVANNA SUSANA",
+      "apellido_paterno": "QUISPE",
+      "apellido_materno": "NINA",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "jhovannaquispe34@gmail.com",
+      "celular": "68066331",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200056059,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 165534,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "7063760",
+      "expedido": "LP",
+      "nombre": "JESSICA MERY",
+      "apellido_paterno": "POMA",
+      "apellido_materno": "PAREDES",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "jessired16@gmail.com",
+      "celular": "73215571",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200056060,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 166186,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "10098013",
+      "expedido": "LP",
+      "nombre": "MILTON ARIEL",
+      "apellido_paterno": "PATTY",
+      "apellido_materno": "MAMANI",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "pattymamanimiltonariel@gmail.com",
+      "celular": "78975071",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200056061,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 165162,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "13308769",
+      "expedido": "LP",
+      "nombre": "JHAMIL JORGE",
+      "apellido_paterno": "CERRUTO",
+      "apellido_materno": "ALIAGA",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "cerrutojorge508@gmail.com",
+      "celular": "69888371",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200056073,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 165751,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "13549562",
+      "expedido": "LP",
+      "nombre": "CLAUDIA MIRIAM",
+      "apellido_paterno": "CRUZ",
+      "apellido_materno": "PACO",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "estudiante.13549562@upea.edu.bo",
+      "celular": "72060594",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200056788,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 167661,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "6985494",
+      "expedido": "LP",
+      "nombre": "VIVIANA INES",
+      "apellido_paterno": "CALLISAYA",
+      "apellido_materno": "CONDORI",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "callisaya.6985494@gmail.com",
+      "celular": "68077399",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200060380,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 180755,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "13790052",
+      "expedido": "LP",
+      "nombre": "OMAR RONALD",
+      "apellido_paterno": "CONDORI",
+      "apellido_materno": "CHOQUE",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "ronaldcondori573@gmail.com",
+      "celular": "67016297",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200060381,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 180328,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "11076268",
+      "expedido": "LP",
+      "nombre": "CARLA",
+      "apellido_paterno": "CONDE",
+      "apellido_materno": "NINA",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "carlacondenina0@gmail.com",
+      "celular": "60663767",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200060382,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 180679,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "8426105",
+      "expedido": "LP",
+      "nombre": "Lia Marisol",
+      "apellido_paterno": "Crespo",
+      "apellido_materno": "Arguedas",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "crespoarguedasliamarisol@gmail.com",
+      "celular": "79127457",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200060384,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 180318,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "5997906",
+      "expedido": "LP",
+      "nombre": "LOURDES",
+      "apellido_paterno": "MENDOZA",
+      "apellido_materno": "HUANCA",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "rikuna.ing@gmail.com",
+      "celular": "72015794",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200060387,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 180725,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "7059975",
+      "expedido": "LP",
+      "nombre": "DANIEL MARWIN",
+      "apellido_paterno": "POCOACA",
+      "apellido_materno": "HUANCA",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "daannp1819@gmail.com",
+      "celular": "77772657",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200060388,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 180761,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "7081137",
+      "expedido": "LP",
+      "nombre": "rudy fermin",
+      "apellido_paterno": "quenallata",
+      "apellido_materno": "paco",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "estudiante.7081137@upea.edu.bo",
+      "celular": "62591858",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200060390,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 180751,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "10071884",
+      "expedido": "LP",
+      "nombre": "HELEN ANNY",
+      "apellido_paterno": "GUARACHI",
+      "apellido_materno": "CHOQUE",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "helenanny10071@gmail.com",
+      "celular": "69968142",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200060489,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 180476,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "9952166",
+      "expedido": "LP",
+      "nombre": "LIMBER",
+      "apellido_paterno": "LEAÑO",
+      "apellido_materno": "CONDORI",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "yc8975489@gmail.com",
+      "celular": "73020052",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200066842,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 187662,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "6075325",
+      "expedido": "LP",
+      "nombre": "ROSBER SAÚL",
+      "apellido_paterno": "LIMACHI",
+      "apellido_materno": "QUISPE",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "rosberizual@gmail.com",
+      "celular": "72519666",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200066864,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 187670,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "14557361",
+      "expedido": "LP",
+      "nombre": "Jessica Aracely",
+      "apellido_paterno": "Mamani",
+      "apellido_materno": "Lopez",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "mamanijessica740@gmail.com",
+      "celular": "67131136",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200066872,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 187695,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "6838134",
+      "expedido": "LP",
+      "nombre": "JHULIANA NICOL",
+      "apellido_paterno": "MAMANI",
+      "apellido_materno": "MAMANI",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "jhuliana.nicol.02@gmail.com",
+      "celular": "77242416",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200066874,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 187705,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "15290456",
+      "expedido": "LP",
+      "nombre": "YHADIRA LIAN",
+      "apellido_paterno": "MAMANI",
+      "apellido_materno": "MERLO",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "yhadiramamanimerlo@gmail.com",
+      "celular": "78570528",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200066876,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 187728,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "9931743",
+      "expedido": "LP",
+      "nombre": "JAVIER JHEFFERSON",
+      "apellido_paterno": "YUCRA",
+      "apellido_materno": "MAMANI",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "javierjym16@gmail.com",
+      "celular": "65579197",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200067478,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 187715,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "14782871",
+      "expedido": "LP",
+      "nombre": "KAREN JHOSSELYN",
+      "apellido_paterno": "CHINO",
+      "apellido_materno": "MAMANI",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "karenjhosselynchinomamani@gmail.com",
+      "celular": "76725696",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200068089,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 187749,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "12702192",
+      "expedido": "LP",
+      "nombre": "Isai Benjamin",
+      "apellido_paterno": "Coaquira",
+      "apellido_materno": "Callisaya",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "6511mejor@gmail.com",
+      "celular": "78954360",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200074458,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 195417,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "9918946",
+      "expedido": "LP",
+      "nombre": "GRISSEL",
+      "apellido_paterno": "ALIAGA",
+      "apellido_materno": "PATTY",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "grisselpatty011@gmail.com",
+      "celular": "75226130",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200074461,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 195412,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "9234433",
+      "expedido": "LP",
+      "nombre": "Henry",
+      "apellido_paterno": "Flores",
+      "apellido_materno": "Catunta",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "henryflorwes@gmail.com",
+      "celular": "68057372",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200074462,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 195415,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "12799301",
+      "expedido": "LP",
+      "nombre": "JOSUE LUIS",
+      "apellido_paterno": "APAZA",
+      "apellido_materno": "GUACHALLA",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "estudiante.12799301@upea.edu.bo",
+      "celular": "77203477",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200075049,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 196002,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "7060151",
+      "expedido": "LP",
+      "nombre": "KATERINE NAYELI",
+      "apellido_paterno": "SALINAS",
+      "apellido_materno": "MAMANI",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "ktrnslns@gmail.com",
+      "celular": "69935660",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200080680,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 202971,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "8304788",
+      "expedido": "LP",
+      "nombre": "DANIEL PABLO",
+      "apellido_paterno": "PACHECO",
+      "apellido_materno": "QUELCA",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "darmell323@gmail.com",
+      "celular": "64366286",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200080835,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 202756,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "10086253",
+      "expedido": "LP",
+      "nombre": "Geraldine Omaira",
+      "apellido_paterno": "Quispe",
+      "apellido_materno": "Pillco",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "quispepillcogeraldineomaira@gmail.com",
+      "celular": "77738603",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200080838,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 202771,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "9102030",
+      "expedido": "LP",
+      "nombre": "IVAN FRANCO",
+      "apellido_paterno": "MAMANI",
+      "apellido_materno": "ESPEJO",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "ivanfrancoma@gmail.com",
+      "celular": "74120749",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200080957,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 202793,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "9161617",
+      "expedido": "LP",
+      "nombre": "LIMBERTH CLIVER",
+      "apellido_paterno": "ROJAS",
+      "apellido_materno": "QUISPE",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "limbertusrojas@gmail.com",
+      "celular": "67054870",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200080967,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 202963,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "3915741",
+      "expedido": "SC",
+      "nombre": "JORGE",
+      "apellido_paterno": "VACA",
+      "apellido_materno": "GARCIA",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "jorge.@vagar.com",
+      "celular": "78854770",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200081726,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 204104,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "9880015",
+      "expedido": "LP",
+      "nombre": "Emanuel",
+      "apellido_paterno": "Ramos",
+      "apellido_materno": "Nuñez",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "ramosnunezemanuel825@gmail.com",
+      "celular": "76509221",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200086628,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 212439,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "8392732",
+      "expedido": "LP",
+      "nombre": "EMILY NOEMI",
+      "apellido_paterno": "QUISPE",
+      "apellido_materno": "HUAYHUA",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "emilynoemiquispehuayhua@gmail.com",
+      "celular": "71506914",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200086630,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 212437,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "6021332",
+      "expedido": "LP",
+      "nombre": "Henry",
+      "apellido_paterno": "Poma",
+      "apellido_materno": "Loza",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "hepoloza@gmail.com",
+      "celular": "71923127",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200086643,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 212463,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "4807934",
+      "expedido": "LP",
+      "nombre": "OSCAR ALBERTO",
+      "apellido_paterno": "VILLA",
+      "apellido_materno": "COCARITO",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "oscaralbertovillacocarito@gmail.com",
+      "celular": "73252683",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200086672,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 212471,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "8296652",
+      "expedido": "LP",
+      "nombre": "GIOMAR RICHARD",
+      "apellido_paterno": "COPA",
+      "apellido_materno": "RODRIGUEZ",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "yhomar.cr@gmail.com",
+      "celular": "69800557",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200086695,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 212442,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "4366975",
+      "expedido": "LP",
+      "nombre": "MIGUEL ANGEL",
+      "apellido_paterno": "LARUTA",
+      "apellido_materno": "CUAQUIRA",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "estudiante.4366975@upea.edu.bo",
+      "celular": "79116216",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 2013000325,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 19463,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "4366624",
+      "expedido": "LP",
+      "nombre": "SILVIA ROXANA",
+      "apellido_paterno": "FLORES",
+      "apellido_materno": "QUISPE",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "estudiante.4366624@upea.edu.bo",
+      "celular": "69803638",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200092240,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 218432,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "14017819",
+      "expedido": "LP",
+      "nombre": "NOEMI",
+      "apellido_paterno": "QUISPE",
+      "apellido_materno": "CONDORI",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "noemiquispecondori@gmail.com",
+      "celular": "72119922",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200092245,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 218500,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "14185137",
+      "expedido": "LP",
+      "nombre": "JENY MILENKA",
+      "apellido_paterno": "QUIÑONES",
+      "apellido_materno": "LOZA",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "quinoneslozajeny@gmail.com",
+      "celular": "76568490",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200092349,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 218549,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "11063907",
+      "expedido": "LP",
+      "nombre": "LIZETH JHASMIN",
+      "apellido_paterno": "POMA",
+      "apellido_materno": "TICONA",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "lizethjhasmin1@gmail.com",
+      "celular": "75867411",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200092399,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 218509,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "13213444",
+      "expedido": "LP",
+      "nombre": "ESMERALDA",
+      "apellido_paterno": "CONDORI",
+      "apellido_materno": "VALENCIA",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "esmeraldacv2005@gmail.com",
+      "celular": "78968271",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200092407,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 218544,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "15399571",
+      "expedido": "LP",
+      "nombre": "JHORDAN FERNANDO",
+      "apellido_paterno": "CONDORI",
+      "apellido_materno": "AGUILAR",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "jhordancastillo001@gmail.com",
+      "celular": "69891859",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200092414,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 218821,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "16951382",
+      "expedido": "LP",
+      "nombre": "MIGUEL ANGEL",
+      "apellido_paterno": "YUCRA",
+      "apellido_materno": "QUISPE",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "myucra@gmail.com",
+      "celular": "62452533",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200092429,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 218829,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "4890086",
+      "expedido": "LP",
+      "nombre": "DIONICIO HENRY",
+      "apellido_paterno": "PACHECO",
+      "apellido_materno": "RIOS",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "hepepacheco@gmail.com",
+      "celular": "77299635",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 201004348,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 39986,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "12768449",
+      "expedido": "LP",
+      "nombre": "Shirley Adriana",
+      "apellido_paterno": "Huanca",
+      "apellido_materno": "Callisaya",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "estudiante.12768449@upea.edu.bo",
+      "celular": "67309794",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200092812,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 219581,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "9996089",
+      "expedido": "LP",
+      "nombre": "Ivan",
+      "apellido_paterno": "Coarite",
+      "apellido_materno": "Blanco",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "estudiante.9996089@upea.edu.bo",
+      "celular": "71835904",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200093322,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 220090,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "6066012",
+      "expedido": "LP",
+      "nombre": "Ros Mery",
+      "apellido_paterno": "Gonzales",
+      "apellido_materno": "Zamora",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "mariacv777@hotmail.com",
+      "celular": "76708723",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200093450,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 220225,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "10064519",
+      "expedido": "LP",
+      "nombre": "Alejandro Gary",
+      "apellido_paterno": "Mamani",
+      "apellido_materno": "Torrez",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "alexandermamanigary@gmail.com",
+      "celular": "73062251",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200095480,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 222236,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "16358552",
+      "expedido": "LP",
+      "nombre": "ARACELY",
+      "apellido_paterno": "ALIAGA",
+      "apellido_materno": "PATTY",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "aracelyaliagapatty00@gmail.com",
+      "celular": "70578332",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200095488,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 222247,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "6739859",
+      "expedido": "LP",
+      "nombre": "DANIELA ANGELA",
+      "apellido_paterno": "ROJAS",
+      "apellido_materno": "VEGA",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "angelarojas1027@gmail.com",
+      "celular": "76216603",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200095602,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 222335,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "499935",
+      "expedido": "LP",
+      "nombre": "OSCAR",
+      "apellido_paterno": "PINTO",
+      "apellido_materno": "CHOQUE",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "ing.oscarpintochoque@gmail.com",
+      "celular": "60103403",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 12007540,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 19905,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "13920888",
+      "expedido": "LP",
+      "nombre": "NAYELI",
+      "apellido_paterno": "LIPACHO",
+      "apellido_materno": "CALLEJA",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "lipachocallejanayeli@gmail.com",
+      "celular": "63051586",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200103095,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 230427,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "13550497",
+      "expedido": "LP",
+      "nombre": "GLADYS GIOVANA",
+      "apellido_paterno": "ROJAS",
+      "apellido_materno": "LUNA",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "lunagiovana093@gmail.com",
+      "celular": "76289592",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200103103,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 230428,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "15409561",
+      "expedido": "LP",
+      "nombre": "Mileydi",
+      "apellido_paterno": "Quispe",
+      "apellido_materno": "Quispe",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "mileydiq836@gmail.com",
+      "celular": "69806448",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200103150,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 230517,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "12989451",
+      "expedido": "LP",
+      "nombre": "CARMEN MARIBEL",
+      "apellido_paterno": "QUISPE",
+      "apellido_materno": "CHOQUE",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "maribelchoquequispe6@gmail.com",
+      "celular": "61141000",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200103153,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 230508,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "12422170",
+      "expedido": "LP",
+      "nombre": "ARIANA KATHERINE",
+      "apellido_paterno": "TICONA",
+      "apellido_materno": "ARTEAGA",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "katherineticona046@gmail.com",
+      "celular": "72518775",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200103156,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 230487,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "11097088",
+      "expedido": "LP",
+      "nombre": "Christian",
+      "apellido_paterno": "Miranda",
+      "apellido_materno": "Paco",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "mirandapaco22@gmail.com",
+      "celular": "62445604",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200103161,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 230529,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "9208334",
+      "expedido": "LP",
+      "nombre": "Jose Ronaldo",
+      "apellido_paterno": "Gutierrez",
+      "apellido_materno": "Ramirez",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "jhoselel@gmail.com",
+      "celular": "70112041",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200103163,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 230483,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "4899424",
+      "expedido": "LP",
+      "nombre": "EDWIN EFRAIN",
+      "apellido_paterno": "RAMOS",
+      "apellido_materno": "CONDORI",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "eduwinramoscondori7@gmail.com",
+      "celular": "63599531",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200103190,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 230551,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "12892728",
+      "expedido": "LP",
+      "nombre": "MASIEL SARAI",
+      "apellido_paterno": "CALLISAYA",
+      "apellido_materno": "QUEQUESANI",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "saraicallisaya6@gmail.com",
+      "celular": "77286567",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200103191,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 230523,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "9978300",
+      "expedido": "LP",
+      "nombre": "REYNALDO",
+      "apellido_paterno": "TARQUI",
+      "apellido_materno": "CONDORI",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "hitreyman@gmail.com",
+      "celular": "73532695",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200103206,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 230512,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "13299574",
+      "expedido": "LP",
+      "nombre": "MAGALY",
+      "apellido_paterno": "CUMARA",
+      "apellido_materno": "MAMANI",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "cumaramagaly72@gmail.com",
+      "celular": "71586909",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200103253,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 230514,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "7041345",
+      "expedido": "LP",
+      "nombre": "JUAN JOSE",
+      "apellido_paterno": "CALLE",
+      "apellido_materno": "NINA",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "calleninajuanjose@gmail.com",
+      "celular": "67663064",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200103255,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 230589,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "13313359",
+      "expedido": "LP",
+      "nombre": "ISMAEL RUFINO",
+      "apellido_paterno": "ACHO",
+      "apellido_materno": "FLORES",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "estudiante.13313359@upea.edu.bo",
+      "celular": "67193661",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200103937,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 231063,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "3497673",
+      "expedido": "LP",
+      "nombre": "MIRIAM FILOMENA",
+      "apellido_paterno": "VISCARRA",
+      "apellido_materno": "MARQUEZ",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "miriamvismar2020@gmail.com",
+      "celular": "74918160",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200107379,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 230593,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "9195092",
+      "expedido": "LP",
+      "nombre": "JORGE MIGUEL",
+      "apellido_paterno": null,
+      "apellido_materno": "FLORES",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "floresjorgemiguel1@gmail.com",
+      "celular": "64226045",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200114563,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 242181,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "9152231",
+      "expedido": "LP",
+      "nombre": "CANDY BELEN",
+      "apellido_paterno": "BAUTISTA",
+      "apellido_materno": "CONDARCO",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "condarcocandy@gmail.com",
+      "celular": "77528599",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200045323,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 107242,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "9983673",
+      "expedido": "LP",
+      "nombre": "GISEL CELESTE",
+      "apellido_paterno": "CRUZ",
+      "apellido_materno": "VELARDE",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "estudiante.9983673@upea.edu.bo",
+      "celular": "67104137",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200114626,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 242202,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "11063873",
+      "expedido": "LP",
+      "nombre": "salome",
+      "apellido_paterno": "gomez",
+      "apellido_materno": "cori",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "salomegomezcori@gmail.com",
+      "celular": "62520096",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200114643,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 230790,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "13115760",
+      "expedido": "LP",
+      "nombre": "MARIEL",
+      "apellido_paterno": "GUTIERREZ",
+      "apellido_materno": "MARTINIC",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "marielmartinic777@gmail.com",
+      "celular": "62490728",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200114646,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 242095,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "16036083",
+      "expedido": "LP",
+      "nombre": "EDLYN SHARVEL",
+      "apellido_paterno": "FABIAN",
+      "apellido_materno": "ASISTIRI",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "edlynfabianasistiri@gmail.com",
+      "celular": "64252444",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200114647,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 242140,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "14040392",
+      "expedido": "LP",
+      "nombre": "EMILY PILAR",
+      "apellido_paterno": "LAURA",
+      "apellido_materno": "ROJAS",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "pilar.laura.r09@gmail.com",
+      "celular": "72503394",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200114648,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 242067,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "13677383",
+      "expedido": "LP",
+      "nombre": "LUZ AYLEN",
+      "apellido_paterno": "RODRIGUEZ",
+      "apellido_materno": "GOMEZ",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "luzrg468@gmail.com",
+      "celular": "76217503",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200114651,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 242105,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "13437049",
+      "expedido": "LP",
+      "nombre": "MARIA CRISTINA",
+      "apellido_paterno": "RAMOS",
+      "apellido_materno": "QUISPE",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "mariacristinaramosquispe186@gmail.com",
+      "celular": "62565048",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200114652,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 242103,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "15324638",
+      "expedido": "LP",
+      "nombre": "ALISON JHISEL",
+      "apellido_paterno": "TAQUELA",
+      "apellido_materno": "LIMACHI",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "estudiante.15324638@upea.edu.bo",
+      "celular": "78948001",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200114653,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 242115,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "14686215",
+      "expedido": "LP",
+      "nombre": "ALEXANDER MIROHOSLAV",
+      "apellido_paterno": "MAMANI",
+      "apellido_materno": "FLORES",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "zeroalmitzu@gmail.com",
+      "celular": "73745192",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200114658,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 242169,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "10022476",
+      "expedido": "LP",
+      "nombre": "NANCY",
+      "apellido_paterno": "LAURA",
+      "apellido_materno": "VARGAS",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "lauravargasnancy02@gmail.com",
+      "celular": "78776038",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200114667,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 242107,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "13371828",
+      "expedido": "LP",
+      "nombre": "CINTHIA",
+      "apellido_paterno": "MAMANI",
+      "apellido_materno": "ALANOCA",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "cinthiamamanialanoca@gmail.com",
+      "celular": "73029252",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200114669,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 242195,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "10094330",
+      "expedido": "LP",
+      "nombre": "RONAL",
+      "apellido_paterno": "CASAS",
+      "apellido_materno": "FLORES",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "estudiante.10094330@upea.edu.bo",
+      "celular": "63173815",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200114680,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 242163,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "13407857",
+      "expedido": "LP",
+      "nombre": "Gabriel Fabio",
+      "apellido_paterno": "Choque",
+      "apellido_materno": "Flores",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "gabrielfabiochoqueflores@gmail.com",
+      "celular": "67345437",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200114726,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 242240,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "13766143",
+      "expedido": "LP",
+      "nombre": "OSCAR RAMIRO",
+      "apellido_paterno": "APAZA",
+      "apellido_materno": "QUISBERT",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "ramiroapazaquisbert123carlos@gmail.com",
+      "celular": "77627131",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200114782,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 242104,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "12892381",
+      "expedido": "LP",
+      "nombre": "VANESA MAYTE",
+      "apellido_paterno": "MAMANI",
+      "apellido_materno": "FLORES",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "mamanimayte369@gmail.com",
+      "celular": "67140653",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200114786,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 242384,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "13959438",
+      "expedido": "LP",
+      "nombre": "Alvaro",
+      "apellido_paterno": "Quispe",
+      "apellido_materno": "Villca",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "14.17quispe@gmail.com",
+      "celular": "63070333",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200114796,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 242156,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "14449178",
+      "expedido": "LP",
+      "nombre": "YADIRA",
+      "apellido_paterno": "CONDE",
+      "apellido_materno": "CALSINA",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "yadiraconde3009@gmail.com",
+      "celular": "64144751",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200115054,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 242197,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "13696336",
+      "expedido": "LP",
+      "nombre": "SHARIFF YHAMIL",
+      "apellido_paterno": "APAZA",
+      "apellido_materno": "YUJRA",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "shariffapaza@gmail.com",
+      "celular": "62463417",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200115142,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 242912,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "8064446",
+      "expedido": "LP",
+      "nombre": "Jose carlos",
+      "apellido_paterno": "Jimenez",
+      "apellido_materno": "Salazar",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "carlosjimenezzz629@gmail.com",
+      "celular": "78366531",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200115468,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 243048,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "9949643",
+      "expedido": "LP",
+      "nombre": "BETZABE MARTHA",
+      "apellido_paterno": "CHOQUE",
+      "apellido_materno": "LUNA",
+      "apellido_casado": null,
+      "genero": "F",
+      "direccion": null,
+      "correo_electronico": "estudiante.9949643@upea.edu.bo",
+      "celular": "62321470",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200115822,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 243037,
+      "id_carrera_origen": 36
+    }
+  },
+  {
+    "persona": {
+      "ci": "4778640",
+      "expedido": "LP",
+      "nombre": "MARIO ISAAC",
+      "apellido_paterno": "MARCA",
+      "apellido_materno": "MAMANI",
+      "apellido_casado": null,
+      "genero": "M",
+      "direccion": null,
+      "correo_electronico": "maikcpa@gmail.com",
+      "celular": "72514701",
+      "fecha_nacimiento": null,
+      "estado_civil": "SOLTERO"
+    },
+    "estudiante": {
+      "ru": 200115907,
+      "semestre": false,
+      "promedio": 0,
+      "año_ingreso": 2023,
+      "numero_Materias_Reprobadas": 0
+    },
+    "metadata": {
+      "carrera": "CIENCIAS FÍSICAS Y ENERGÍAS ALTERNATIVAS",
+      "sede": "VILLA ESPERANZA",
+      "gestion": "2026",
+      "id_persona_origen": 243231,
+      "id_carrera_origen": 36
+    }
+  }
+]

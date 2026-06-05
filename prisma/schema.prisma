@@ -1,0 +1,476 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+enum PeriodoBloqueo {
+  ANUAL
+  SEMESTRAL
+}
+
+enum EstadoLegalizacion {
+  PENDIENTE_LEGALIZACION
+  EN_REVISION
+  LEGALIZADO
+  RECHAZADO
+  ENTREGADO
+}
+model persona {
+  ID_persona         Int          @id @default(autoincrement())
+  ci                 String       @unique
+  expedido           String
+  nombre             String
+  apellido_paterno   String?
+  apellido_materno   String?
+  apellido_casado    String?
+  genero             String
+  direccion          String?
+  correo_electronico String       @unique
+  celular            String
+  fecha_nacimiento   DateTime?
+  estado_civil       String
+  usuario            usuario? //relación opcional 1:1
+  estudiante         estudiante[]
+}
+
+model usuario {
+  ID_usuario           Int                    @id @default(autoincrement())
+  username             String                 @unique
+  password             String
+  activo               Boolean                @default(true)
+  personaId            Int                    @unique
+  persona              persona                @relation(fields: [personaId], references: [ID_persona])
+  grupo_usuario        grupo_usuario[]
+  cargo_administrativo cargo_administrativo[]
+  otpCodes             OtpCode[]
+  notifications        NotificationLog[]
+  notificacionesSistema NotificacionSistema[]
+  requisitos_encargado requisito_encargado[]
+  requisitos_entrega_final requisito[] @relation("RequisitoEntregaFinal")
+  requisito_legalizacion_flujos requisito_legalizacion_flujo[]
+  pasos_legalizacion paso_legalizacion_estudiante[]
+  audit_logs           audit_log[]
+}
+
+model cargo_administrativo {
+  ID_cargo     Int       @id @default(autoincrement())
+  nombre       String
+  descripcion  String?
+  fecha_inicio DateTime
+  fecha_fin    DateTime?
+  estado_cargo Boolean   @default(true)
+  usuarioId    Int
+  usuario      usuario   @relation(fields: [usuarioId], references: [ID_usuario])
+}
+
+model grupo_usuario {
+  ID_grupo_usuario Int       @id @default(autoincrement())
+  usuarioId        Int
+  usuario          usuario   @relation(fields: [usuarioId], references: [ID_usuario])
+  grupoRolId       Int
+  grupo_rol        grupo_rol @relation(fields: [grupoRolId], references: [ID_grupo_rol])
+  fecha_inicio     DateTime
+  fecha_fin        DateTime?
+}
+
+model grupo_rol {
+  ID_grupo_rol  Int             @id @default(autoincrement())
+  nombre        String
+  descripcion   String?
+  grupo_usuario grupo_usuario[]
+}
+
+model estudiante {
+  ID_estudiante              Int           @id @default(autoincrement())
+  personaId                  Int           @unique
+  persona                    persona       @relation(fields: [personaId], references: [ID_persona])
+  ru                         Int?
+  semestre                   Boolean       @default(false)
+  promedio                   Int
+  año_ingreso                Int           @default(2023)
+  numero_Materias_Reprobadas Int           @default(0)
+  postulaciones              postulacion[]
+}
+
+model oficina {
+  ID_oficina          Int     @id @default(autoincrement())
+  nombre              String
+  descripcion         String?
+  horario_atencion    String
+  estado_oficina      Boolean @default(true)
+  panorama_route_slug String? @db.VarChar(150)
+
+  encargado_oficina encargado_oficina[]
+  panoramas         panorama[]
+  requisito         requisito[]
+  pasos_etapa       paso_estudiante[]
+}
+
+model encargado_oficina {
+  ID_encargado       Int       @id @default(autoincrement())
+  nombre             String
+  apellido_paterno   String
+  apellido_materno   String
+  correo_electronico String?
+  celular            String?
+  oficinaId          Int
+  oficina            oficina   @relation(fields: [oficinaId], references: [ID_oficina])
+  fecha_inicio       DateTime
+  fecha_fin          DateTime?
+  estado             Boolean   @default(true)
+  turno_atencion     String
+
+  @@index([oficinaId])
+  @@index([estado, fecha_fin])
+}
+
+enum HotspotType {
+  INFORMACION
+  LINK
+}
+
+enum IconType {
+  INFO
+  FLECHA
+}
+
+model ruta_360 {
+  id         String   @id @default(uuid())
+  nombre     String
+  slug       String   @unique
+
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+
+  panoramas  panorama[]
+}
+
+model hotspot {
+  id         String   @id @default(uuid())
+  panoramaId String
+  panorama   panorama @relation(fields: [panoramaId], references: [id], onDelete: Cascade)
+
+  type      HotspotType
+  x         Float
+  y         Float
+  z         Float
+  icon      IconType    @default(INFO)
+  titulo    String?
+  contenido String?
+  orden     Int?
+  activo    Boolean     @default(true)
+  createdAt DateTime    @default(now())
+  updatedAt DateTime    @updatedAt
+
+  link       hotspotLink?
+  es_entrada Boolean      @default(false)
+
+  @@index([panoramaId])
+}
+
+model panorama {
+  id         String  @id @default(uuid())
+
+  rutaId     String?
+  ruta       ruta_360? @relation(fields: [rutaId], references: [id], onDelete: SetNull)
+
+  oficina_id Int?
+  oficina    oficina? @relation(fields: [oficina_id], references: [ID_oficina], onDelete: SetNull)
+
+  name       String
+  fileUrl    String
+  projection String?   @default("equirectangular")
+  publicado  Boolean   @default(false)
+  orden      Int       @default(0)
+  createdAt  DateTime  @default(now())
+  updatedAt  DateTime  @updatedAt
+  es_portada Boolean   @default(false)
+  // Hotspots colocados sobre ESTE panorama
+  hotspots   hotspot[]
+
+  // LADO OPUESTO de la relación nombrada "TargetPanorama":
+  // enlaces (LINK) que apuntan A ESTE panorama como destino
+  targetLinks hotspotLink[] @relation("TargetPanorama")
+
+  @@unique([oficina_id, orden])
+  @@index([oficina_id]) // ← añadir este índice ayuda en listados por oficina
+}
+
+model hotspotLink {
+  id        String  @id @default(uuid())
+  hotspotId String  @unique
+  hotspot   hotspot @relation(fields: [hotspotId], references: [id], onDelete: Cascade)
+  // Relación nombrada "TargetPanorama" debe existir en ambos lados
+
+  targetPanoramaId String
+  targetPanorama   panorama @relation("TargetPanorama", fields: [targetPanoramaId], references: [id])
+  transition       String?
+}
+
+model beca {
+  ID_beca      Int       @id @default(autoincrement())
+  nombre       String
+  detalle      String?
+  imagen       String?
+  tipo         String // podrías hacerlo enum también
+  cupos        Int?
+  estado       Boolean   @default(true)
+  fecha_inicio DateTime
+  fecha_fin    DateTime?
+  periodo_bloqueo PeriodoBloqueo @default(ANUAL)
+  pasos         pasosPorBeca[]
+  postulaciones postulacion[]
+}
+
+model postulacion {
+  ID_postulacion String   @id @default(uuid())
+  estudianteId   Int
+  becaId         Int
+  gestion        String
+  periodo_postulacion String?
+  estado         String   @default("EN_PROCESO")
+  fecha          DateTime @default(now())
+
+  observacion        String?
+  estado_observacion String  @default("NO OBSERVADO")
+  codigo_seguimiento String? @unique
+
+  // ABANDONO / RECUPERACIÓN
+  abandono_recuperable Boolean   @default(false)
+  estado_antes_abandono String?
+  fecha_abandono        DateTime?
+  motivo_abandono       String?
+
+  // HISTORIAL DE ARCHIVADO
+  archivado              Boolean   @default(false)
+  fecha_archivado        DateTime?
+  observacion_archivado  String?
+
+  // HISTORIAL DE LA BECA
+  beca_nombre_historico        String?
+  beca_tipo_historico          String?
+  beca_fecha_inicio_historico  DateTime?
+  beca_fecha_fin_historico     DateTime?
+  beca_historial_capturado     Boolean @default(false)
+
+  estudiante      estudiante        @relation(fields: [estudianteId], references: [ID_estudiante], onDelete: Cascade)
+  beca            beca              @relation(fields: [becaId], references: [ID_beca], onDelete: Cascade)
+  paso_estudiante paso_estudiante[]
+
+  @@index([estudianteId, gestion, estado])
+  @@index([becaId, gestion])
+  @@index([estado])
+  @@index([abandono_recuperable])
+  @@index([estudianteId, gestion, periodo_postulacion, estado])
+}
+
+model requisito {
+  ID_paso   Int      @id @default(autoincrement())
+
+  oficinaId Int?
+  oficina   oficina? @relation(fields: [oficinaId], references: [ID_oficina], onDelete: SetNull)
+
+  nombre              String
+  descripcion         String?
+  archivo_ejemplo_url String?
+  url_externa         String?
+
+  requiere_legalizacion Boolean @default(false)
+  dias_estimados_legalizacion Int?
+  entrega_final_usuarioId Int?
+  entrega_final_usuario usuario? @relation("RequisitoEntregaFinal", fields: [entrega_final_usuarioId], references: [ID_usuario], onDelete: SetNull)
+
+  tipo_requisito String @default("DOCUMENTO")
+  // DOCUMENTO | ETAPA
+
+  requiere_nota Boolean @default(false)
+  requiere_fecha_descripcion Boolean @default(false)
+  requiere_ruta_360 Boolean @default(false)
+  requiere_otro Boolean @default(false)
+
+  pasos pasosPorBeca[]
+
+  encargados requisito_encargado[]
+  legalizacion_flujo requisito_legalizacion_flujo[]
+
+  @@index([entrega_final_usuarioId])
+}
+
+model requisito_encargado {
+  ID_requisito_encargado Int @id @default(autoincrement())
+
+  requisitoId Int
+  usuarioId Int
+
+  requisito requisito @relation(fields: [requisitoId], references: [ID_paso], onDelete: Cascade)
+  usuario usuario @relation(fields: [usuarioId], references: [ID_usuario], onDelete: Cascade)
+
+  @@unique([requisitoId, usuarioId])
+}
+
+model pasosPorBeca {
+  ID_pasosBeca Int     @id @default(autoincrement())
+  becaId       Int
+  requisitoId  Int
+  estado       Boolean @default(true)
+  orden        Int?
+
+  beca            beca              @relation(fields: [becaId], references: [ID_beca], onDelete: Cascade)
+  requisito       requisito         @relation(fields: [requisitoId], references: [ID_paso], onDelete: Cascade)
+  paso_estudiante paso_estudiante[]
+
+  @@unique([becaId, requisitoId])
+  @@index([becaId, orden])
+}
+
+model paso_estudiante {
+  ID_paso_estudiante Int @id @default(autoincrement())
+
+  postulacionId String
+  pasoBecaId    Int
+
+  completado       Boolean   @default(false)
+  fecha_completado DateTime?
+  notas            String? // opcional: observaciones
+  legalizaciones paso_legalizacion_estudiante[]
+  estado_revision String @default("NO_REQUIERE")
+  // NO_REQUIERE | PENDIENTE_LEGALIZACION | EN_REVISION | LEGALIZADO | RECHAZADO
+  observacion_revision String?
+  fecha_revision       DateTime?
+  // FLUJO DE ETAPAS
+
+  estado_etapa String? @default("BLOQUEADO")
+  // BLOQUEADO | EN_REVISION | APROBADO | REPROBADO | ABANDONADO
+
+  nota_etapa        Float?
+  fecha_etapa       DateTime?
+  descripcion_etapa String?
+  texto_extra_etapa String?
+  oficinaRutaId     Int?
+  oficinaRuta oficina? @relation(fields: [oficinaRutaId], references: [ID_oficina], onDelete: SetNull)
+  postulacion postulacion  @relation(fields: [postulacionId], references: [ID_postulacion], onDelete: Cascade)
+  pasoBeca    pasosPorBeca @relation(fields: [pasoBecaId], references: [ID_pasosBeca], onDelete: Cascade)
+  @@unique([postulacionId, pasoBecaId]) // un registro por paso en esa postulación
+  @@index([postulacionId])
+  @@index([pasoBecaId])
+  @@index([estado_revision])
+  @@index([estado_etapa])
+}
+
+model OtpCode {
+  id          String    @id @default(cuid())
+  userId      Int
+  purpose     String // "password_change" | "password_reset"
+  channel     String    @default("email")
+  codeHash    String
+  expiresAt   DateTime
+  attempts    Int       @default(0)
+  maxAttempts Int       @default(5)
+  consumedAt  DateTime?
+  createdAt   DateTime  @default(now())
+
+  user usuario @relation(fields: [userId], references: [ID_usuario])
+
+  @@index([userId, purpose, expiresAt])
+  @@index([purpose, expiresAt])
+}
+
+model NotificationLog {
+  id        String   @id @default(cuid())
+  userId    Int
+  channel   String // "email" | "whatsapp"
+  template  String // "observado" | "aprobado" | ...
+  payload   Json
+  status    String // "SENT" | "FAILED"
+  error     String?
+  createdAt DateTime @default(now())
+
+  user usuario @relation(fields: [userId], references: [ID_usuario])
+}
+
+model NotificacionSistema {
+  id        String   @id @default(cuid())
+  userId    Int
+  titulo    String
+  mensaje   String
+  tipo      String   @default("INFO") // INFO | SUCCESS | WARNING | ERROR
+  leido     Boolean  @default(false)
+  url       String?
+  createdAt DateTime @default(now())
+
+  user usuario @relation(fields: [userId], references: [ID_usuario], onDelete: Cascade)
+
+  @@index([userId, leido, createdAt])
+}
+
+model audit_log {
+  id         String   @id @default(cuid())
+  tabla      String
+  registroId String
+  accion     String
+  // CREATE | UPDATE | DELETE | APROBAR_ETAPA | RECHAZAR_ETAPA | LEGALIZAR | etc.
+  detalle    String?
+  antes      Json?
+  despues    Json?
+  usuarioId  Int?
+  usuario    usuario? @relation(fields: [usuarioId], references: [ID_usuario], onDelete: SetNull)
+  createdAt  DateTime @default(now())
+
+  @@index([tabla, registroId])
+  @@index([usuarioId])
+  @@index([createdAt])
+}
+model requisito_legalizacion_flujo {
+  id          Int      @id @default(autoincrement())
+  requisitoId Int
+  usuarioId   Int
+  orden       Int
+  activo      Boolean  @default(true)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  requisito requisito @relation(fields: [requisitoId], references: [ID_paso], onDelete: Cascade)
+  usuario   usuario   @relation(fields: [usuarioId], references: [ID_usuario], onDelete: Cascade)
+
+  @@unique([requisitoId, orden])
+  @@unique([requisitoId, usuarioId])
+  @@index([requisitoId])
+  @@index([usuarioId])
+  @@index([activo])
+}
+model paso_legalizacion_estudiante {
+  id               Int                 @id @default(autoincrement())
+  pasoEstudianteId Int
+  usuarioId        Int
+  orden            Int
+  estado           EstadoLegalizacion  @default(PENDIENTE_LEGALIZACION)
+
+  activo_revision  Boolean             @default(false)
+  es_entrega_final Boolean             @default(false)
+
+  fecha_inicio     DateTime?
+  fecha_revision   DateTime?
+  observacion      String?
+
+  createdAt        DateTime            @default(now())
+  updatedAt        DateTime            @updatedAt
+
+  pasoEstudiante paso_estudiante @relation(fields: [pasoEstudianteId], references: [ID_paso_estudiante], onDelete: Cascade)
+  usuario        usuario         @relation(fields: [usuarioId], references: [ID_usuario], onDelete: Cascade)
+
+  @@unique([pasoEstudianteId, orden])
+  @@index([pasoEstudianteId])
+  @@index([usuarioId])
+  @@index([estado])
+  @@index([activo_revision])
+  @@index([es_entrega_final])
+}
