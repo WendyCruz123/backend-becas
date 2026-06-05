@@ -21,7 +21,15 @@ app.enableCors({
   ],
 });
 
-  app.use('/uploads', express.static(join(process.cwd(), 'uploads')));
+  app.use(
+  '/uploads',
+  express.static(join(process.cwd(), 'uploads'), {
+    setHeaders: (res) => {
+      res.setHeader('Access-Control-Allow-Origin', '*');
+      res.setHeader('Cross-Origin-Resource-Policy', 'cross-origin');
+    },
+  }),
+);
   
   app.useGlobalPipes(new ValidationPipe({
   whitelist: true,
