@@ -3,7 +3,6 @@ import { Client, LocalAuth } from 'whatsapp-web.js';
 import * as qrcode from 'qrcode';
 import * as fs from 'fs';
 import * as path from 'path';
-import puppeteer from 'puppeteer';
 
 type WaStatus =
   | 'DISCONNECTED'
@@ -99,7 +98,6 @@ export class WhatsAppService {
   takeoverTimeoutMs: 10000,
   puppeteer: {
     headless: true,
-    executablePath: puppeteer.executablePath(),
     args: [
       '--no-sandbox',
       '--disable-setuid-sandbox',
