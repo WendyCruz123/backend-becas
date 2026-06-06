@@ -97,7 +97,7 @@ this.log.log(`PUPPETEER_EXECUTABLE_PATH: ${process.env.PUPPETEER_EXECUTABLE_PATH
     dataPath: this.getAuthPath(),
   }),
   authTimeoutMs: 120000,
-  qrMaxRetries: 5,
+qrMaxRetries: 0,  
   takeoverOnConflict: true,
   takeoverTimeoutMs: 10000,
   puppeteer: {
@@ -112,25 +112,29 @@ this.log.log(`PUPPETEER_EXECUTABLE_PATH: ${process.env.PUPPETEER_EXECUTABLE_PATH
 });
     this.bindEvents(this.client);
 
+this.client.initialize()
+  .then(() => {
+    this.log.log('Inicialización de WhatsApp lanzada.');
+  })
+  .catch(async (error: any) => {
+    this.initializing = false;
+    this.status = 'ERROR';
+    this.lastError = error?.message || String(error);
+
     try {
-      await this.client.initialize();
-      this.log.log('Inicialización de WhatsApp lanzada.');
-    } catch (error: any) {
-  this.initializing = false;
-  this.status = 'ERROR';
-  this.lastError = error?.message || String(error);
+      await this.client?.destroy();
+    } catch {}
 
-  try {
-    await this.client?.destroy();
-  } catch {}
+    this.client = null;
 
-  this.client = null;
-
-  this.log.error(`Error inicializando WhatsApp: ${this.lastError}`);
-}
+    this.log.error(`Error inicializando WhatsApp: ${this.lastError}`);
+  });
   }
 
   private bindEvents(client: Client) {
+    client.on('loading_screen', (percent, message) => {
+  this.log.log(`WhatsApp loading ${percent}% - ${message}`);
+});
     client.on('qr', async (qr) => {
       this.status = 'SCAN_QR';
       this.currentQR = qr;
