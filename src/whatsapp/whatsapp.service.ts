@@ -114,11 +114,18 @@ export class WhatsAppService {
       await this.client.initialize();
       this.log.log('Inicialización de WhatsApp lanzada.');
     } catch (error: any) {
-      this.initializing = false;
-      this.status = 'ERROR';
-      this.lastError = error?.message || String(error);
-      this.log.error(`Error inicializando WhatsApp: ${this.lastError}`);
-    }
+  this.initializing = false;
+  this.status = 'ERROR';
+  this.lastError = error?.message || String(error);
+
+  try {
+    await this.client?.destroy();
+  } catch {}
+
+  this.client = null;
+
+  this.log.error(`Error inicializando WhatsApp: ${this.lastError}`);
+}
   }
 
   private bindEvents(client: Client) {
