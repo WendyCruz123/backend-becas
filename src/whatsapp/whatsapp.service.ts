@@ -3,6 +3,7 @@ import { Client, LocalAuth } from 'whatsapp-web.js';
 import * as qrcode from 'qrcode';
 import * as fs from 'fs';
 import * as path from 'path';
+import puppeteer from 'puppeteer';
 
 type WaStatus =
   | 'DISCONNECTED'
@@ -88,16 +89,25 @@ export class WhatsAppService {
     const clientId = this.getClientId();
 
     this.client = new Client({
-      authStrategy: new LocalAuth({
-        clientId,
-        dataPath: this.getAuthPath(),
-      }),
-      authTimeoutMs: 120000,
-      qrMaxRetries: 5,
-      takeoverOnConflict: true,
-      takeoverTimeoutMs: 10000,
-    });
-
+  authStrategy: new LocalAuth({
+    clientId,
+    dataPath: this.getAuthPath(),
+  }),
+  authTimeoutMs: 120000,
+  qrMaxRetries: 5,
+  takeoverOnConflict: true,
+  takeoverTimeoutMs: 10000,
+  puppeteer: {
+    headless: true,
+    executablePath: puppeteer.executablePath(),
+    args: [
+      '--no-sandbox',
+      '--disable-setuid-sandbox',
+      '--disable-dev-shm-usage',
+      '--disable-gpu',
+    ],
+  },
+});
     this.bindEvents(this.client);
 
     try {
