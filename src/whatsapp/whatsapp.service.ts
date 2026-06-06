@@ -86,6 +86,10 @@ export class WhatsAppService {
     this.status = 'INITIALIZING';
 
     const clientId = this.getClientId();
+this.log.log(`WHATSAPP_SESSION_PATH: ${this.getAuthPath()}`);
+this.log.log(`PUPPETEER_CACHE_DIR: ${process.env.PUPPETEER_CACHE_DIR || 'NO DEFINIDO'}`);
+this.log.log(`PUPPETEER_EXECUTABLE_PATH: ${process.env.PUPPETEER_EXECUTABLE_PATH || 'NO DEFINIDO'}`);
+
 
     this.client = new Client({
   authStrategy: new LocalAuth({
